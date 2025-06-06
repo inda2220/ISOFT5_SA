@@ -1,0 +1,36 @@
+---------------------👥🦂 Mr. Cuerno Team -------------👥🦂
+Name	                    |Position
+David	                    |CEO
+Julio Inda ¡Siiuuu!🥳🔥	|BackEnd Team Leader
+Fabián 🐐	                |FrontEnd Team Leader
+Alexander	                |Software Architect
+Gabriel	                  |Owner
+-----------------------------💵💳Monthly Salaries💵💳 ----------------------
+Name	        |Salary
+David	        |$6,000 (CEO)
+Julio Inda 	  |$8,000 (BackEnd)
+Fabián 	      |$7,000 (FrontEnd)
+Alexander	    |$7,000 (Architect)
+Gabriel	      |$2,000 (Owner)
+Total	        |$30,000
+--------------------------💰💸Budget For Project 💰💸----------------------
+Total Project Budget: $50,000 MXN.
+
+Development Time: 1 Month.
+
+Distribution Time: 1 Checkpoint per Week.
+
+Checkpoints (4 == 1 Month): 4 Checkpoints per Month.
+
+//Budget Breakdown:
+
+Team salaries: $30,000 (60%)
+
+Computer equipment: $15,000 (30%)
+
+Contingency: $5,000 (10%)
+
+📚 ADR (Architecture Decision Records)
+Use of SQLite for local storage (STATUS == ✅ Approved )
+Use of Tkinter for UI (STATUS == ✅ Approved)
+Offline functionality (STATUS == ✅ Validated)
