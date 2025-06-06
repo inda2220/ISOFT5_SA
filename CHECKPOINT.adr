@@ -1,0 +1,28 @@
+                                                       🍰 Mr. Cuerno 🍰
+**********************************************************Description**********************************************************
+Internal management application for Mr. Cuerno's pastry shop that allows managing orders, inventory, and sales.
+
+-----------------------📌📈CHECKPOINT📌📈 -------------------------
+1 Initial Meeting  - Definition of dessert menu and requirements with the owner
+
+2 Database Design - SQLite structure for products, ingredients, and orders
+
+3 Main Interface - Home screen with options (orders/inventory/reports)
+
+4 Products Module  - Add/edit/delete cakes and desserts
+
+5 Order System  - Order registration with frequent customers
+
+6 Inventory Control  - Low ingredient alerts
+
+7 Customization - Options for special orders (cake messages)
+
+8 Digital Tickets  - Kitchen receipt generation
+
+9 Basic Reports  - Daily sales in CSV format
+
+10 Promotions Module  - Discounts and combos
+
+11 Comprehensive Testing  - Verification of all modules
+
+12 Installation and Training  - Local PC implementation and staff training
